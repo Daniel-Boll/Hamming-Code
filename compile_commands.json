@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/danielboll/dev/personal/Learning/CPP/tipi/build/linux-cxx17/bin",
+  "command": "/home/danielboll/.tipi/clang/8142227/bin/clang++ -DBOOST_ALL_NO_LIB -DBOOST_ALL_NO_LIB=1 -I/home/danielboll/dev/personal/Learning/CPP/tipi/build/linux-cxx17/recipe/../../../include -I/home/danielboll/dev/personal/Learning/CPP/tipi/build/linux-cxx17/recipe/../../../src -isystem /home/danielboll/.tipi/platform/6b9afd6/_Base/xxxxxxx/bc894ee/15fdca9/Install/include -isystem / -isystem /home/danielboll/dev/personal/Learning/CPP/tipi/build/linux-cxx17/sysroot/include -std=c++17 -g   -Wall -Wno-unused-local-typedefs -Wno-unused-variable -std=c++17 -o CMakeFiles/tipi.dir/home/danielboll/dev/personal/Learning/CPP/tipi/src/hamming.cpp.o -c /home/danielboll/dev/personal/Learning/CPP/tipi/src/hamming.cpp",
+  "file": "/home/danielboll/dev/personal/Learning/CPP/tipi/src/hamming.cpp"
+},
+{
+  "directory": "/home/danielboll/dev/personal/Learning/CPP/tipi/build/linux-cxx17/bin/src",
+  "command": "/home/danielboll/.tipi/clang/8142227/bin/clang++ -DBOOST_ALL_NO_LIB -DBOOST_ALL_NO_LIB=1 -I/home/danielboll/dev/personal/Learning/CPP/tipi/build/linux-cxx17/recipe/../../../include -I/home/danielboll/dev/personal/Learning/CPP/tipi/build/linux-cxx17/recipe/../../../src -isystem /home/danielboll/.tipi/platform/6b9afd6/_Base/xxxxxxx/bc894ee/15fdca9/Install/include -isystem / -isystem /home/danielboll/dev/personal/Learning/CPP/tipi/build/linux-cxx17/sysroot/include -std=c++17 -g   -Wall -Wno-unused-local-typedefs -Wno-unused-variable -std=c++17 -o CMakeFiles/main.dir/home/danielboll/dev/personal/Learning/CPP/tipi/src/main.cpp.o -c /home/danielboll/dev/personal/Learning/CPP/tipi/src/main.cpp",
+  "file": "/home/danielboll/dev/personal/Learning/CPP/tipi/src/main.cpp"
+}
+]

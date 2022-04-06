@@ -1,0 +1,11 @@
+{
+  "jarro2783/cxxopts": { "@": "v3.0.0" },
+  "fmtlib/fmt": {
+    "@": "8.1.1",
+    "x": [ "src/fmt.cc", "src/os.cc", "test/" ],
+    "requires": {
+      "google/googletest": { "u": true, "packages": ["GTest"], "targets": ["GTest::gtest", "GTest::gmock"] }
+    }
+  },
+  "platform": [ "Boost::+boost" ]
+}
